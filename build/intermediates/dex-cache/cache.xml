@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_c8ae2c0e04c36e9940bdf77c0ee119dadcc1accf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_168c6b72b8cb73f54c4c582994c4248f49f60434/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_8cd23ed586c82e89ba3b0d26dd493c043bdd4147/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_ccee122113f0d247eed5813994142ef0fdc24e2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b1d2ba54473866969555458cd94aaa932eb386a">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_39b3c869dae9925f3d99b663b8f3d4d3216b2b9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_ba6515076c49c2ae7a8d716f6c44f285515c90e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_23d147bfefb57e94b29aee0df3455b46fa53ed47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffaff7c9ba7737cf27d187a93c6b13e99c119e9a">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_de5e8ca17705c83f036b07920713f7a65e77937b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_cb07c9da42ef6d6212567110e7f5e38af95fa5f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_5f9296523791fb60cee607869879049357b6c052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_2fbf607b25e28f426409613b10e86a9038f7f9d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_de69371b530759748b6a3deff0fa78c3c8c67a27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_8d061fb619546fc19f198dec0101a8b962ea0442/classes.dex" />
+    </item>
+
+</items>
