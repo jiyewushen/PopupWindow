@@ -1,4 +1,4 @@
-#Thu Dec 22 18:22:52 CST 2016
+#Mon Jan 02 20:51:58 CST 2017
 base.0=/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_de5e8ca17705c83f036b07920713f7a65e77937b
 renamed.1=classes.dex
 renamed.0=classes2.dex
