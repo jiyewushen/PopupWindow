@@ -1,6 +1,9 @@
 # PopupWindow
 ![image](https://github.com/jiyewushen/PopupWindow/blob/master/screen.gif)
 
+[app-debug下载](https://github.com/jiyewushen/PopupWindow/blob/master/app/build/outputs/apk/app-debug.apk)
+
+
 #### setFocusable(boolean focusable)、setOutsideTouchable(boolean touchable)和 setTouchable(boolean touchable)区别和联系
 * setFocusable(boolean focusable) 设置是否获取焦点
 * setOutsideTouchable(boolean touchable) 设置内容区域外是否可点击退出
