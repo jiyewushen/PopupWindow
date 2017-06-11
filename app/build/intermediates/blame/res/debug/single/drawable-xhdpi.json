@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/pic_item.png",
-        "source": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/src/main/res/drawable-xhdpi/pic_item.png"
+        "merged": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic_item.png",
+        "source": "D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\pic_item.png"
     },
     {
-        "merged": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/help_item.png",
-        "source": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/src/main/res/drawable-xhdpi/help_item.png"
+        "merged": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera_item.png",
+        "source": "D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\camera_item.png"
     },
     {
-        "merged": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/camera_item.png",
-        "source": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/src/main/res/drawable-xhdpi/camera_item.png"
+        "merged": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_item.png",
+        "source": "D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\help_item.png"
     }
 ]

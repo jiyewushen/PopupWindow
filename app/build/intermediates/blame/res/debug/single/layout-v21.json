@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+        "merged": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

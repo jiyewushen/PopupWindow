@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+                    "file": "C:\\Users\\chen\\.android\\build-cache\\262892d58b9300760e6ca403e04c85853eaf86ff\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

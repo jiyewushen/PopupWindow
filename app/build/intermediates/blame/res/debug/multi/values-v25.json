@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+        "outputFile": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 121
                 },
                 "from": {
-                    "file": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-v25/values-v25.xml",
+                    "file": "C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\values-v25\\values-v25.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-v25/values-v25.xml",
+                    "file": "C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\values-v25\\values-v25.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 303
                 },
                 "from": {
-                    "file": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-v25/values-v25.xml",
+                    "file": "C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\values-v25\\values-v25.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +71,7 @@
                     "endOffset": 414
                 },
                 "from": {
-                    "file": "/home/chenxiao/Android_Project/PopUpWindowDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-v25/values-v25.xml",
+                    "file": "C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\values-v25\\values-v25.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
