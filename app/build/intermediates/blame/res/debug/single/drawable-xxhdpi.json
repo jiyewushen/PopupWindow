@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\popupwindow_bg.9.png",
-        "source": "D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xxhdpi\\popupwindow_bg.9.png"
+        "merged": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\popupwindow_bg.9.png",
+        "source": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xxhdpi\\popupwindow_bg.9.png"
+    },
+    {
+        "merged": "/Users/xp/Documents/GitHub/PopupWindow/app/build/intermediates/res/merged/debug/drawable-xxhdpi/popupwindow_bg.9.png",
+        "source": "/Users/xp/Documents/GitHub/PopupWindow/app/src/main/res/drawable-xxhdpi/popupwindow_bg.9.png"
     }
 ]
