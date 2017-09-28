@@ -15,14 +15,15 @@ ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.x
 		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [PopupWindow:baselibrary:unspecified] /Users/xp/Documents/GitHub/PopupWindow/baselibrary/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /Users/xp/.android/build-cache/d48ecc5447d27fbf062b9aa56e346b12e4a07201/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/xp/.android/build-cache/837de31c2999fbfd072fde36bc17ad23886ae3f6/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/xp/.android/build-cache/8ad185dd9b05c038ceb68421892d0a370a540759/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/xp/.android/build-cache/facdc82e9ef9d4465ab801139bef91a8abb844a6/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/xp/.android/build-cache/c3050b20dea5016419b99e23579d03ea4abf80b9/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/xp/.android/build-cache/b49d1d31fa79af8d73387e65c7e0f440db6ae4f9/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/xp/.android/build-cache/63d30b0d1d314d4d05ed7d3097ec5a6c72badadc/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/xp/.android/build-cache/facdc82e9ef9d4465ab801139bef91a8abb844a6/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /Users/xp/.android/build-cache/b58a3b3f2a062cfd39e4a5c1ac0ed280e171eea8/output/AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:8:9-41
@@ -50,15 +51,16 @@ ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.x
 		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:20:5-43
+MERGED from [PopupWindow:baselibrary:unspecified] /Users/xp/Documents/GitHub/PopupWindow/baselibrary/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] /Users/xp/.android/build-cache/d48ecc5447d27fbf062b9aa56e346b12e4a07201/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/xp/.android/build-cache/837de31c2999fbfd072fde36bc17ad23886ae3f6/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/xp/.android/build-cache/8ad185dd9b05c038ceb68421892d0a370a540759/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/xp/.android/build-cache/facdc82e9ef9d4465ab801139bef91a8abb844a6/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/xp/.android/build-cache/c3050b20dea5016419b99e23579d03ea4abf80b9/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/xp/.android/build-cache/b49d1d31fa79af8d73387e65c7e0f440db6ae4f9/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/xp/.android/build-cache/63d30b0d1d314d4d05ed7d3097ec5a6c72badadc/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/xp/.android/build-cache/facdc82e9ef9d4465ab801139bef91a8abb844a6/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:25.3.1] /Users/xp/.android/build-cache/b58a3b3f2a062cfd39e4a5c1ac0ed280e171eea8/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:23:9-75
@@ -69,17 +71,17 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/xp/.android/build
 		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] /Users/xp/.android/build-cache/d48ecc5447d27fbf062b9aa56e346b12e4a07201/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/xp/.android/build-cache/837de31c2999fbfd072fde36bc17ad23886ae3f6/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/xp/.android/build-cache/8ad185dd9b05c038ceb68421892d0a370a540759/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/xp/.android/build-cache/facdc82e9ef9d4465ab801139bef91a8abb844a6/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/xp/.android/build-cache/c3050b20dea5016419b99e23579d03ea4abf80b9/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/xp/.android/build-cache/b49d1d31fa79af8d73387e65c7e0f440db6ae4f9/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/xp/.android/build-cache/63d30b0d1d314d4d05ed7d3097ec5a6c72badadc/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/xp/.android/build-cache/facdc82e9ef9d4465ab801139bef91a8abb844a6/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-compat:25.3.1] /Users/xp/.android/build-cache/b58a3b3f2a062cfd39e4a5c1ac0ed280e171eea8/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:24:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:23:9-47

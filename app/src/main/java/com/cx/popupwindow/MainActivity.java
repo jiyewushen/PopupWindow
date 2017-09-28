@@ -3,7 +3,6 @@ package com.cx.popupwindow;
 import android.content.Context;
 import android.graphics.Point;
 import android.graphics.drawable.Drawable;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.*;
 import android.view.Gravity;
@@ -17,7 +16,9 @@ import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+import com.cx.baselibrary.BaseActivity;
+
+public class MainActivity extends BaseActivity {
     private PopupWindow pw;
     private int[] item_image_id = {R.drawable.pic_item, R.drawable.camera_item, R.drawable.help_item};
     private String[] item_text = {"添加图片", "打开相机", "关于"};
@@ -26,6 +27,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+    }
+
+    @Override
+    protected void bindView() {
         initToolbar();
         onClickListeners=new View.OnClickListener[item_image_id.length];
         onClickListeners[0]=new View.OnClickListener() {
@@ -65,6 +70,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+    }
+
+    @Override
+    protected void bindData() {
 
     }
 
@@ -119,6 +128,7 @@ public class MainActivity extends AppCompatActivity {
         toolbar.setTitle("");
         setSupportActionBar(toolbar);
     }
+
 
     class MyAdapter extends RecyclerView.Adapter<MyViewHolder> {
         private int[] id;
