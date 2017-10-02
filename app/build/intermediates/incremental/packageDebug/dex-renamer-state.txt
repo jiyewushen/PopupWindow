@@ -1,4 +1,7 @@
-#Thu Sep 21 20:29:57 CST 2017
-base.0=/Users/xp/Documents/GitHub/PopupWindow/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Mon Oct 02 17:22:04 CST 2017
+base.0=D\:\\GitHub\\PopupWindow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5204d09011aea2d2cd8cf9fca82dbd95a6105a0f
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/Users/xp/Documents/GitHub/PopupWindow/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=D\:\\GitHub\\PopupWindow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c4aa3d8274f55a02f095b9fa931b8abc95785d6c\\classes.dex
+base.1=D\:\\GitHub\\PopupWindow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c4aa3d8274f55a02f095b9fa931b8abc95785d6c
+file.0=D\:\\GitHub\\PopupWindow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5204d09011aea2d2cd8cf9fca82dbd95a6105a0f\\classes.dex

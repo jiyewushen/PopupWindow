@@ -1,18 +1,26 @@
 [
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "D:\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\GitHub\\PopupWindow\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\mipmap-xhdpi\\add.png"
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\mipmap-xhdpi\\add.png"
     },
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/app/build/intermediates/res/merged/debug/mipmap-xhdpi/add.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/app/src/main/res/mipmap-xhdpi/add.png"
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add.png",
+        "source": "D:\\GitHub\\PopupWindow\\app\\src\\main\\res\\mipmap-xhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\src\\main\\res\\mipmap-xhdpi\\add.png"
     }
 ]

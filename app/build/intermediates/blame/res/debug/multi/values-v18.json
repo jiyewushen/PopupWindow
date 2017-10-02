@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "outputFile": "D:\\GitHub\\PopupWindow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/Users/xp/Documents/GitHub/PopupWindow/C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\values-v18\\values-v18.xml",
+                    "file": "C:\\Users\\Chen\\.android\\build-cache\\c97a868e3a82add4b4d564d4b3140352ca442563\\output\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "/Users/xp/Documents/GitHub/PopupWindow/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "outputFile": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,31 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/res/values-v18/values-v18.xml",
+                    "file": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\C:\\Users\\chen\\.android\\build-cache\\3e260137ed68f85252570377c35020f7b8ce6d67\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "D:\\Users\\xp\\.android\\build-cache\\663a50cbb651ce9521d34ef943fabf0a0856c3d2\\output\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

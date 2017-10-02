@@ -1,26 +1,38 @@
 [
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera_item.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\camera_item.png"
+        "merged": "D:\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic_item.png",
+        "source": "D:\\GitHub\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\pic_item.png"
     },
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/app/build/intermediates/res/merged/debug/drawable-xhdpi/pic_item.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/app/src/main/res/drawable-xhdpi/pic_item.png"
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic_item.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\pic_item.png"
     },
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/app/build/intermediates/res/merged/debug/drawable-xhdpi/camera_item.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/app/src/main/res/drawable-xhdpi/camera_item.png"
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera_item.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\camera_item.png"
     },
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic_item.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\pic_item.png"
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic_item.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\pic_item.png"
     },
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_item.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\help_item.png"
+        "merged": "D:\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera_item.png",
+        "source": "D:\\GitHub\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\camera_item.png"
     },
     {
-        "merged": "/Users/xp/Documents/GitHub/PopupWindow/app/build/intermediates/res/merged/debug/drawable-xhdpi/help_item.png",
-        "source": "/Users/xp/Documents/GitHub/PopupWindow/app/src/main/res/drawable-xhdpi/help_item.png"
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_item.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\help_item.png"
+    },
+    {
+        "merged": "D:\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_item.png",
+        "source": "D:\\GitHub\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\help_item.png"
+    },
+    {
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera_item.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\D:\\AndroidStudioProjects\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\camera_item.png"
+    },
+    {
+        "merged": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_item.png",
+        "source": "D:\\Users\\xp\\Documents\\GitHub\\PopupWindow\\app\\src\\main\\res\\drawable-xhdpi\\help_item.png"
     }
 ]

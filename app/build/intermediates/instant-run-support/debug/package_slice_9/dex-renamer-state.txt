@@ -1,0 +1,4 @@
+#Mon Oct 02 17:08:52 CST 2017
+base.0=D\:\\GitHub\\PopupWindow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=D\:\\GitHub\\PopupWindow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

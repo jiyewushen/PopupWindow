@@ -1,87 +1,87 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:3:5-33
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
 application
-ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:5:5-18:19
-MERGED from [PopupWindow:baselibrary:unspecified] /Users/xp/Documents/GitHub/PopupWindow/baselibrary/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /Users/xp/.android/build-cache/d48ecc5447d27fbf062b9aa56e346b12e4a07201/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/xp/.android/build-cache/837de31c2999fbfd072fde36bc17ad23886ae3f6/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/xp/.android/build-cache/8ad185dd9b05c038ceb68421892d0a370a540759/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/xp/.android/build-cache/facdc82e9ef9d4465ab801139bef91a8abb844a6/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/xp/.android/build-cache/c3050b20dea5016419b99e23579d03ea4abf80b9/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/xp/.android/build-cache/b49d1d31fa79af8d73387e65c7e0f440db6ae4f9/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/xp/.android/build-cache/63d30b0d1d314d4d05ed7d3097ec5a6c72badadc/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/xp/.android/build-cache/b58a3b3f2a062cfd39e4a5c1ac0ed280e171eea8/output/AndroidManifest.xml:29:5-20
+ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [PopupWindow:baselibrary:unspecified] D:\GitHub\PopupWindow\baselibrary\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Chen\.android\build-cache\c97a868e3a82add4b4d564d4b3140352ca442563\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Chen\.android\build-cache\fc310f2fd170c096a3979f321b1fd336dc9f8b30\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Chen\.android\build-cache\980e7dffe26ea8f8b601e6bdc5e5b28eaecfd173\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Chen\.android\build-cache\8e1a09892458ada64536459a7c2c0c0e780956b0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Chen\.android\build-cache\7354ed938f3c8330c1b02093aed4fb13e35fc4ea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Chen\.android\build-cache\5d4be612aced6a0a16eabed9d10a3d3dc9bb7304\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Chen\.android\build-cache\0d8c896a8ff9f3035b66201be2a78f9ef4e4c78e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Chen\.android\build-cache\43896321803829fe7440cffef466a79693a6df7f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Chen\.android\build-cache\627bb5b56554ae2bb66cfc454ada16c06b2aff9f\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:10:9-40
-activity#com.cx.popupwindow.MainActivity
-ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:11:9-17:20
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.cx.popupwindow.HomeActivity
+ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:11:19-47
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:12:13-16:29
+ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:20:5-43
-MERGED from [PopupWindow:baselibrary:unspecified] /Users/xp/Documents/GitHub/PopupWindow/baselibrary/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] /Users/xp/.android/build-cache/d48ecc5447d27fbf062b9aa56e346b12e4a07201/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/xp/.android/build-cache/837de31c2999fbfd072fde36bc17ad23886ae3f6/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/xp/.android/build-cache/8ad185dd9b05c038ceb68421892d0a370a540759/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/xp/.android/build-cache/facdc82e9ef9d4465ab801139bef91a8abb844a6/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/xp/.android/build-cache/c3050b20dea5016419b99e23579d03ea4abf80b9/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/xp/.android/build-cache/b49d1d31fa79af8d73387e65c7e0f440db6ae4f9/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/xp/.android/build-cache/63d30b0d1d314d4d05ed7d3097ec5a6c72badadc/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] /Users/xp/.android/build-cache/b58a3b3f2a062cfd39e4a5c1ac0ed280e171eea8/output/AndroidManifest.xml:21:5-23:58
+INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Chen\.android\build-cache\b7ac63eb08d856f5ddd031f77d768ba4bf89b5fa\output\AndroidManifest.xml:20:5-43
+MERGED from [PopupWindow:baselibrary:unspecified] D:\GitHub\PopupWindow\baselibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Chen\.android\build-cache\c97a868e3a82add4b4d564d4b3140352ca442563\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Chen\.android\build-cache\fc310f2fd170c096a3979f321b1fd336dc9f8b30\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Chen\.android\build-cache\980e7dffe26ea8f8b601e6bdc5e5b28eaecfd173\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Chen\.android\build-cache\8e1a09892458ada64536459a7c2c0c0e780956b0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Chen\.android\build-cache\7354ed938f3c8330c1b02093aed4fb13e35fc4ea\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Chen\.android\build-cache\5d4be612aced6a0a16eabed9d10a3d3dc9bb7304\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Chen\.android\build-cache\0d8c896a8ff9f3035b66201be2a78f9ef4e4c78e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Chen\.android\build-cache\43896321803829fe7440cffef466a79693a6df7f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Chen\.android\build-cache\627bb5b56554ae2bb66cfc454ada16c06b2aff9f\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Chen\.android\build-cache\c97a868e3a82add4b4d564d4b3140352ca442563\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xp/Documents/GitHub/PopupWindow/app/src/main/AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/xp/.android/build-cache/663a50cbb651ce9521d34ef943fabf0a0856c3d2/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/xp/.android/build-cache/d48ecc5447d27fbf062b9aa56e346b12e4a07201/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/xp/.android/build-cache/837de31c2999fbfd072fde36bc17ad23886ae3f6/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/xp/.android/build-cache/8ad185dd9b05c038ceb68421892d0a370a540759/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/xp/.android/build-cache/facdc82e9ef9d4465ab801139bef91a8abb844a6/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/xp/.android/build-cache/c3050b20dea5016419b99e23579d03ea4abf80b9/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/xp/.android/build-cache/b49d1d31fa79af8d73387e65c7e0f440db6ae4f9/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/xp/.android/build-cache/63d30b0d1d314d4d05ed7d3097ec5a6c72badadc/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/xp/.android/build-cache/b58a3b3f2a062cfd39e4a5c1ac0ed280e171eea8/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Chen\.android\build-cache\b7ac63eb08d856f5ddd031f77d768ba4bf89b5fa\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Chen\.android\build-cache\c97a868e3a82add4b4d564d4b3140352ca442563\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Chen\.android\build-cache\fc310f2fd170c096a3979f321b1fd336dc9f8b30\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Chen\.android\build-cache\980e7dffe26ea8f8b601e6bdc5e5b28eaecfd173\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Chen\.android\build-cache\8e1a09892458ada64536459a7c2c0c0e780956b0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Chen\.android\build-cache\7354ed938f3c8330c1b02093aed4fb13e35fc4ea\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Chen\.android\build-cache\5d4be612aced6a0a16eabed9d10a3d3dc9bb7304\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Chen\.android\build-cache\0d8c896a8ff9f3035b66201be2a78f9ef4e4c78e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Chen\.android\build-cache\43896321803829fe7440cffef466a79693a6df7f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Chen\.android\build-cache\627bb5b56554ae2bb66cfc454ada16c06b2aff9f\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:24:9-31
+		ADDED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Chen\.android\build-cache\b7ac63eb08d856f5ddd031f77d768ba4bf89b5fa\output\AndroidManifest.xml:24:9-31
 	android:name
-		ADDED from [com.android.support:recyclerview-v7:25.3.1] /Users/xp/.android/build-cache/4887d111cb8bed278e992137daed5f93e6b48b00/output/AndroidManifest.xml:23:9-47
+		ADDED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Chen\.android\build-cache\b7ac63eb08d856f5ddd031f77d768ba4bf89b5fa\output\AndroidManifest.xml:23:9-47
