@@ -2,9 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.cx.popupwindow.test">
 
-    <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="25" />
+    <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="26" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

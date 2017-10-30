@@ -6,14 +6,11 @@
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="25" />
-
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="25.3.1" />
+        android:targetSdkVersion="26" />
 
     <application
         android:allowBackup="true"
+        android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
@@ -25,6 +22,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>
