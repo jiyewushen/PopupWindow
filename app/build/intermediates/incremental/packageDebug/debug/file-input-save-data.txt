@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Nov 23 23:54:19 CST 2017
+0.baseType=DIRECTORY
+0.base=D\:\\GitHub\\PopupWindow\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

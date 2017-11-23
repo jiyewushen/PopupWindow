@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":baselibrary"><source path="D:\GitHub\PopupWindow\baselibrary\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\GitHub\PopupWindow\app\src\main\assets"/><source path="D:\GitHub\PopupWindow\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\GitHub\PopupWindow\app\src\debug\assets"/></dataSet></merger>

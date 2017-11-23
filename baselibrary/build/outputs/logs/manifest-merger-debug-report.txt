@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:3:11-39
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:6:5-11:19
+	android:supportsRtl
+		ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:8:18-44
+	android:label
+		ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:7:18-50
+	android:allowBackup
+		ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml:6:18-44
+uses-sdk
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\PopupWindow\baselibrary\src\main\AndroidManifest.xml
