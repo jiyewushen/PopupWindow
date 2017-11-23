@@ -31,7 +31,7 @@ public class HomeActivity extends BaseActivity {
 
     @Override
     protected void bindView() {
-        Toolbar toolbar = (Toolbar) findViewById(R.id.my_toolbar);
+        Toolbar toolbar = findViewById(R.id.my_toolbar);
         toolbar.setTitle("");
         setSupportActionBar(toolbar);
         onClickListeners=new View.OnClickListener[item_image_id.length];
@@ -59,14 +59,13 @@ public class HomeActivity extends BaseActivity {
             }
         };
         initPopupWindow();
-        ImageButton im = (ImageButton) findViewById(R.id.pop_up_window);
+        ImageButton im = findViewById(R.id.pop_up_window);
         im.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 if (pw.isShowing()) {
                     pw.dismiss();
                 } else {
-                    changeWindowAlpha(0.8f);
                     popupWindowShow(view);
                 }
             }
@@ -91,6 +90,7 @@ public class HomeActivity extends BaseActivity {
         wm.getDefaultDisplay().getSize(p);
         int x = p.x - view.getMeasuredWidth() - w;
         pw.showAtLocation(view, Gravity.NO_GRAVITY, x, h);
+        changeWindowAlpha(0.7f);
     }
 
     /**
@@ -106,7 +106,7 @@ public class HomeActivity extends BaseActivity {
 
     private void initPopupWindow() {
         View content = LayoutInflater.from(HomeActivity.this).inflate(R.layout.pop_up_window, null);
-        RecyclerView recyclerView = (RecyclerView) content.findViewById(R.id.rv_pw);
+        RecyclerView recyclerView = content.findViewById(R.id.rv_pw);
         recyclerView.setLayoutManager(new GridLayoutManager(HomeActivity.this, 1));
         recyclerView.setAdapter(new MyAdapter(item_image_id, item_text,onClickListeners));
         DividerItemDecoration decoration = new DividerItemDecoration(HomeActivity.this);
@@ -166,8 +166,8 @@ public class HomeActivity extends BaseActivity {
 
         MyViewHolder(View itemView) {
             super(itemView);
-            iv = (ImageView) itemView.findViewById(R.id.item_icon);
-            tv = (TextView) itemView.findViewById(R.id.item_name);
+            iv = itemView.findViewById(R.id.item_icon);
+            tv = itemView.findViewById(R.id.item_name);
         }
     }
 }

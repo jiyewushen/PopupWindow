@@ -10,8 +10,8 @@
         <item name="windowNoTitle">true</item>
     </style>
     <style name="PopupWindowAnimation">
-        <item name="android:windowEnterAnimation">@anim/popup_window_in</item>
-        <item name="android:windowExitAnimation">@anim/popup_window_out</item>
+        <item name="android:windowEnterAnimation">@anim/animation_show</item>
+        <item name="android:windowExitAnimation">@anim/animation_hide</item>
     </style>
 
 </resources>
